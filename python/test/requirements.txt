@@ -1,0 +1,10 @@
+beautifulsoup4==4.9.3
+bs4==0.0.1
+fpdf2==2.3.1
+httplib2==0.14.0
+requests==2.22.0
+requests-unixsocket==0.2.0
+SecretStorage==2.3.1
+selenium==3.141.0
+urllib3==1.25.8
+
